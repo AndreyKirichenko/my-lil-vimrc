@@ -12,3 +12,7 @@ filetype plugin indent on    " required
 " NERDTree
 autocmd vimenter * NERDTree
 map <C-n> :NERDTreeToggle<CR>
+
+set tabstop=2
+set noswapfile
+
